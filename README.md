@@ -33,7 +33,7 @@ To get started with this project, clone the repository and install the required 
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/traffic-signs-classification.git
+    git clone https://github.com/naorzkall/traffic-signs-classification.git
     cd traffic-signs-classification
     ```
 2. Install the required dependencies:
